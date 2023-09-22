@@ -64,4 +64,3 @@ int stringToInt(char *s) {
 
     return output;
 }
-
